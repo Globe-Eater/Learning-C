@@ -8,6 +8,8 @@ int main()
 	int characterAge = 27;
 	printf("There once was a man named %s\n", characterName);
 	printf("he was %i years old.\n", characterAge);
+
+	characterAge = 30;
 	printf("He really liked the name %s\n", characterName);
 	printf("but did not like being %i \n", characterAge);
 
